@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "ramda": "^0.29.1",
+    "telegraf": "^4.15.0"
+  }
+}
